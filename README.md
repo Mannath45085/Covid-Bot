@@ -23,8 +23,4 @@ Create a Bot using Azure Bot Service.
 
 Embeded that bot in the website.
 
-Create Azure Static Web Apps resources, In that I connected my Github repo by signing into my github account & secting repo.
 
-In Github Actions, it shows deployment status.
-
-After successful deployment the content of my project gets visible on the website
