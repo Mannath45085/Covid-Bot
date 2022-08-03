@@ -2,6 +2,8 @@ https://user-images.githubusercontent.com/63714965/182592889-dc5623fb-a761-463c-
 
 
 # Covid-Bot
+## Project Url: https://salmon-bay-071688710.1.azurestaticapps.net
+
 ## Future Ready Talent Project by Mannath Shaik
 This website is developed using HTML, CSS. Microsoft Azure is used to deploy the website. It is hard to find the particular question and answer through Frequently Asked Questions(FAQ) section. To solve this problem, I have implemented a Chatbot related to Covid in my project. In this website I implement a Chatbot related to Covid in my project which is innovative and attractive way to search for question and get their answer.
 
@@ -47,4 +49,6 @@ To solve this problem, I have implemented a Chatbot related to Covid in my proje
 
 * After successful deployment the content is visible on my website.
 
+
+## Project Url: https://salmon-bay-071688710.1.azurestaticapps.net
 
