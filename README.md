@@ -24,3 +24,4 @@ Create a Bot using Azure Bot Service.
 Embeded that bot in the website.
 
 
+![image](https://user-images.githubusercontent.com/63714965/182573013-d6b1da95-7b77-45c8-894a-d93d96c5e246.png)
