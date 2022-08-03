@@ -12,7 +12,7 @@ It is hard to find the particular question and answer through Frequently Asked Q
 
 To solve this problem, I have implemented a Chatbot related to Covid in my project. which is an innovative and attractive way to search for question and get their answers.
 
-## Project Url: https://sites.google.com/srmap.edu.in/covid-bot/home
+## Project Url: https://salmon-bay-071688710.1.azurestaticapps.net
 
 ## Screenshot: ![Covid Bot](https://user-images.githubusercontent.com/63714965/182111214-069c5f4b-c1f9-46f2-af67-8cb9579683f8.png)
 
