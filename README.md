@@ -3,8 +3,10 @@ https://user-images.githubusercontent.com/63714965/182592889-dc5623fb-a761-463c-
 
 # Covid-Bot
 ## Future Ready Talent Project by Mannath Shaik
-This website is developed using HTML, CSS. Microsoft Azure is used to deploy the website. In this website I implement a Chatbot related to Covid in my project which is innovative and attractive way to search for question and get their answer.
+This website is developed using HTML, CSS. Microsoft Azure is used to deploy the website. It is hard to find the particular question and answer through Frequently Asked Questions(FAQ) section. To solve this problem, I have implemented a Chatbot related to Covid in my project. In this website I implement a Chatbot related to Covid in my project which is innovative and attractive way to search for question and get their answer.
+
 In this project I have used QnA maker, Azure bot service(web app bot) and Static Web App services of Microsoft Azure.
+
 ## Project Title:
 
 Covid Bot using Microsoft Azure
