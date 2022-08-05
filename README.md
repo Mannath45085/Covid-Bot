@@ -11,11 +11,11 @@ In this project I have used QnA maker, Azure bot service(web app bot) and Static
 
 ## Project Title:
 
-Covid Bot using Microsoft Azure
+Covid Chatbot using Microsoft Azure
 
 ## Problem Statement:
 
-It is hard to find the particular question and answer through Frequently Asked Questions(FAQ) section.
+It is hard to find the particular question and answer through Frequently Asked Questions(FAQ) section. To solve this problem, I have implemented a Chatbot related to Covid in my project.
 
 ## Project Description: 
 
